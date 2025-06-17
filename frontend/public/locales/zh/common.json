@@ -1,0 +1,157 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "我们的服务",
+    "cases": "成功案例",
+    "contact": "联系我们"
+  },
+  "banner": {
+    "title": "纵贯南洋 托付有信",
+    "subtitle": "深耕跨境物流20余年，构建覆盖深圳、广州、香港等10+核心枢纽的全球服务网络，日均处理500+标准柜，60+国际航线触达全球220+国家。从传统货代到数字化物流生态，始终以『合规先行、效率至上』为经营信条，让每一份托付跨越山海。",
+    "cta": "了解更多"
+  },
+  "services": {
+    "title": "我们的服务",
+    "subtitle": "一站式国际物流解决方案",
+    "air_freight": {
+      "title": "国际空运",
+      "description": "提供全球各主要机场航线，专业空运团队确保您的货物安全、准时送达。"
+    },
+    "sea_freight": {
+      "title": "国际海运",
+      "description": "覆盖全球主要港口，提供整柜、拼箱等多样化海运服务。"
+    },
+    "lcl_shipping": {
+      "title": "散货拼柜",
+      "description": "为小批量货物提供经济实惠的运输方案，灵活安排装运计划。"
+    },
+    "customs_clearance": {
+      "title": "专业清关",
+      "description": "专业团队协助处理复杂的清关手续，确保货物顺利通关。"
+    },
+    "pickup_service": {
+      "title": "上门提货",
+      "description": "提供门到门服务，专业物流团队上门取货，省时省力。"
+    },
+    "insurance_service": {
+      "title": "保险服务",
+      "description": "提供全面的货物保险方案，为您的货物提供额外保障。"
+    },
+    "one_stop_service": {
+      "title": "一站式服务",
+      "description": "从提货、运输到清关、配送，一站式解决您的物流需求。"
+    }
+  },
+  "features": {
+    "title": "公司特点",
+    "subtitle": "为什么选择和林国际物流",
+    "fast_delivery": {
+      "title": "快速空运",
+      "description": "高效的运输网络确保您的货物以最快速度到达目的地。"
+    },
+    "mission_accomplished": {
+      "title": "使命必达",
+      "description": "我们承诺，无论遇到什么困难，都会确保您的货物安全送达。"
+    },
+    "professional": {
+      "title": "专业服务",
+      "description": "拥有多年行业经验的专业团队，为您提供最优质的物流服务。"
+    },
+    "trustworthy": {
+      "title": "值得信赖",
+      "description": "多年来服务众多知名企业，赢得了客户的高度信任。"
+    },
+    "peace_of_mind": {
+      "title": "安心托付",
+      "description": "全程跟踪货物状态，让您随时了解货物动态，安心无忧。"
+    }
+  },
+  "smart": {
+    "title": "智能化物流平台",
+    "subtitle": "数字化赋能，智慧物流先行",
+    "description": "和林国际物流自主研发的智能化物流平台，实现全程可视化跟踪、智能路径规划、自动文件处理等功能，大幅提升物流效率，降低运营成本。"
+  },
+  "intelligent": {
+    "title": "智能化优势",
+    "items": [
+      "全程可视化跟踪",
+      "智能路径规划",
+      "自动文件处理",
+      "数据分析预测",
+      "客户关系管理"
+    ]
+  },
+  "platform": {
+    "title": "平台展示",
+    "subtitle": "随时随地，掌控物流",
+    "mobile": "移动端界面",
+    "desktop": "电脑端界面"
+  },
+  "logistics_partner": {
+    "title": "物流好拍档",
+    "subtitle": "为您的业务保驾护航",
+    "description": "和林国际物流致力于成为您最可靠的物流合作伙伴，无论您是跨境电商、传统外贸还是制造企业，我们都能为您提供最适合的物流解决方案。",
+    "statistics": [
+      {
+        "number": "20+",
+        "text": "年行业经验"
+      },
+      {
+        "number": "60+",
+        "text": "国际航线"
+      },
+      {
+        "number": "220+",
+        "text": "覆盖国家"
+      },
+      {
+        "number": "500+",
+        "text": "日均处理标准柜"
+      }
+    ]
+  },
+  "case_studies": {
+    "title": "成功案例",
+    "subtitle": "我们的服务足迹",
+    "description": "多年来，和林国际物流已为众多知名企业提供优质的物流服务，帮助他们解决各种物流难题，提升供应链效率。",
+    "view_more": "查看更多"
+  },
+  "brands": {
+    "title": "合作品牌",
+    "subtitle": "值得信赖的合作伙伴"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "随时为您提供支持",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮箱",
+      "phone": "电话",
+      "company": "公司名称",
+      "message": "留言",
+      "submit": "提交"
+    },
+    "address": "深圳市南山区科技园南区高新南七道数字技术园B1栋502",
+    "phone": "+86 755-12345678",
+    "email": "contact@helinguoji.com"
+  },
+  "footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "services": "服务",
+    "careers": "招贤纳士",
+    "news": "新闻动态",
+    "solutions": "解决方案",
+    "air_freight": "国际空运",
+    "sea_freight": "国际海运",
+    "customs": "清关服务",
+    "warehousing": "仓储服务",
+    "support": "支持",
+    "contact": "联系我们",
+    "faq": "常见问题",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "copyright": "© 2023 和林国际物流有限公司. 版权所有."
+  }
+} 
