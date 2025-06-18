@@ -8,21 +8,21 @@ const nextConfig = {
     domains: ['localhost'],
     unoptimized: true,
   },
-  webpack(config) {
-    config.module.rules.push({
-      test: /\.(mp4|webm)$/,
-      use: {
-        loader: 'file-loader',
-        options: {
-          publicPath: '/_next/static/',
-          outputPath: 'static/',
-          name: '[name].[hash].[ext]',
-        },
-      },
-    });
-
-    return config;
-  },
+  // 移除file-loader配置，使用Next.js内置处理
+  // webpack(config) {
+  //   config.module.rules.push({
+  //     test: /\.(mp4|webm)$/,
+  //     use: {
+  //       loader: 'file-loader',
+  //       options: {
+  //         publicPath: '/_next/static/',
+  //         outputPath: 'static/',
+  //         name: '[name].[hash].[ext]',
+  //       },
+  //     },
+  //   });
+  //   return config;
+  // },
 };
 
 module.exports = nextConfig; 
