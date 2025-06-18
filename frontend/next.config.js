@@ -8,6 +8,11 @@ const nextConfig = {
     domains: ['localhost'],
     unoptimized: true,
   },
+  // GitHub Pages 配置
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/helinguoji-website' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/helinguoji-website' : '',
+  trailingSlash: true,
+  output: 'export',
   // 移除file-loader配置，使用Next.js内置处理
   // webpack(config) {
   //   config.module.rules.push({
